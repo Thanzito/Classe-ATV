@@ -37,7 +37,7 @@ $vend ->nomeVendedor = "Joshua";
 $vend ->enderecoVendedor = "Rua jiboia, 6969";
 echo "<br>";
 
-$vend2 = new Carro;
+$vend2 = new Vendedor;
 $vend2 ->nomeVendedor = "Robson";
 $vend2 ->enderecoVendedor = "Rua mosquito, 3050";
 echo "<br>";
